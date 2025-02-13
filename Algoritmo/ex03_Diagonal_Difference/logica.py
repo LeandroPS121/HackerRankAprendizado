@@ -22,5 +22,3 @@ def somar_diagonais(matriz):
 def calcular_diferenca_absoluta(diag1,diag2):
     resultado = abs((diag1-diag2))
     print(resultado)
-
-somar_diagonais(matriz)
